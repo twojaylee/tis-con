@@ -20,6 +20,8 @@ var 내용
 window.onload = function() {
     // 삭제할 div 요소의 클래스명을 지정합니다.
     var targetClass = "kakao_ad_area";
+
+    var element = document.getElementById(targetId);
     // 해당 클래스명을 가진 요소를 찾습니다.
     var targetElements = document.querySelectorAll("." + targetClass);
     // 해당 클래스명을 가진 모든 요소를 순회하면서 부모 요소를 찾아서 삭제합니다.
@@ -31,4 +33,14 @@ window.onload = function() {
     document.getElementById("popup-close-btn").addEventListener("click", function() {
         document.getElementById("popup").style.display = "none";
     });
+    var targetId = "ad-0";
+    var element = document.getElementById(targetId);
+
+    if (element) {
+        var parentElement = element.parentNode;
+        parentElement.removeChild(element);
+    } else {
+        // ID가 "ad-0"인 요소가 존재하지 않는 경우에 대한 처리
+        // 추가 코드 작성
+    }
 };
