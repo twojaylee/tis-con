@@ -14,7 +14,7 @@
 .adsbygoogle.dad1 {display:inline-block;min-width:240px;max-width:240px;width:100%;height:240px;}
 .adsbygoogle.dad2 {display:inline-block;min-width:240px;max-width:240px;width:100%;height:240px;}
 }
-@media (min-width: 1028px) {
+@media (min-width: 1023px) {
 .adsbygoogle.dad1 {display:inline-block;min-width:336px;max-width:336px;width:100%;height:280px;}
 .adsbygoogle.dad2 {display:inline-block;min-width:336px;max-width:336px;width:100%;height:280px;}
 }
@@ -64,7 +64,7 @@ p{
     display: block !important;
     margin-block-start: 0 !important;
     margin-block-end: 0 !important;
-    font-size: 20px !important;
+    font-size: 21px !important;
 }
 u{
     text-decoration: none;

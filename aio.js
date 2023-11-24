@@ -1,29 +1,6 @@
-var 지정한태그 = document.getElementById('dad');
+var 지정한태그
+var 내용
 
-var 내용 = `
-<div id="tdad" style="text-align: center; margin-bottom: 5px;">
-    <ins class="adsbygoogle dad1"
-        data-ad-client="ca-pub-8864202517500914"
-        data-ad-slot="1611298289"
-        data-ad-format="rectangle"
-        data-full-width-responsive="true"></ins>
-    <script>
-        (adsbygoogle = window.adsbygoogle || []).push({});
-    </script>
-    <ins class="adsbygoogle dad2"
-        data-ad-client="ca-pub-8864202517500914"
-        data-ad-slot="7985134946"
-        data-ad-format="rectangle"
-        data-full-width-responsive="true"></ins>
-    <script>
-        (adsbygoogle = window.adsbygoogle || []).push({});
-    </script>
-</div>
-`;
-지정한태그.insertAdjacentHTML('afterbegin', 내용);
-
-// HTML 구조를 삽입합니다.
-// 새로운 태그에 콘텐츠를 추가합니다.
 지정한태그 = document.body;
 내용 = `
 <div id="allpo">
@@ -37,18 +14,14 @@ var 내용 = `
     </div>
 </div>
 `;
-
-// HTML 구조를 새로운 태그에 삽입합니다.
 지정한태그.insertAdjacentHTML('afterbegin', 내용);
 
 // 페이지 로딩 후 실행될 함수를 등록합니다.
 window.onload = function() {
     // 삭제할 div 요소의 클래스명을 지정합니다.
     var targetClass = "kakao_ad_area";
-
     // 해당 클래스명을 가진 요소를 찾습니다.
     var targetElements = document.querySelectorAll("." + targetClass);
-
     // 해당 클래스명을 가진 모든 요소를 순회하면서 부모 요소를 찾아서 삭제합니다.
     targetElements.forEach(function(targetElement) {
         var parentElement = targetElement.parentNode;
