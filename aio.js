@@ -1,7 +1,7 @@
-var 지정한태그 = document.querySelectorAll('s_permalink_article_rep')[1]; // 두 번째 태그를 선택합니다.
+var 지정한태그 = document.getElementById('dad');
 
 var 내용 = `
-<div id="tdad" style="text-align: center; margin-bottom: 9px;">
+<div id="tdad" style="text-align: center; margin-bottom: 5px;">
     <ins class="adsbygoogle dad1"
         data-ad-client="ca-pub-8864202517500914"
         data-ad-slot="1611298289"
@@ -20,11 +20,11 @@ var 내용 = `
     </script>
 </div>
 `;
-지정한태그.insertAdjacentHTML('beforeend', 내용);
+지정한태그.insertAdjacentHTML('afterbegin', 내용);
 
 // HTML 구조를 삽입합니다.
 // 새로운 태그에 콘텐츠를 추가합니다.
-지정한태그 = document.querySelectorAll('body')[0];
+지정한태그 = document.body;
 내용 = `
 <div id="allpo">
     <!-- 레이어 팝업 -->
@@ -39,7 +39,7 @@ var 내용 = `
 `;
 
 // HTML 구조를 새로운 태그에 삽입합니다.
-지정한태그.insertAdjacentHTML('beforeend', 내용);
+지정한태그.insertAdjacentHTML('afterbegin', 내용);
 
 // 페이지 로딩 후 실행될 함수를 등록합니다.
 window.onload = function() {
