@@ -2641,9 +2641,6 @@ font-weight: 700;
 		-webkit-transition: right .5s;
 	}
 	#aside .close {
-
-	}
-	#aside .close {
 		position: absolute;
 		top: 24px;
 		right: 24px;
@@ -3279,3 +3276,4 @@ font-weight: 700;
 	.tt-comments-wrap {
 		padding: 0 24px;
 	}
+}
