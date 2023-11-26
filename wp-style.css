@@ -1,0 +1,38 @@
+.adsbygoogle.dad1 {display:block;}
+.adsbygoogle.dad2 {display:none}
+@media (min-width: 680px) {
+.adsbygoogle.dad1 {display:inline-block;min-width:300px;max-width:300px;width:100%;height:250px;}
+.adsbygoogle.dad2 {display:inline-block;min-width:300px;max-width:300px;width:100%;height:250px;}
+}
+@media (min-width: 769px) {
+.adsbygoogle.dad1 {display:inline-block;min-width:240px;max-width:240px;width:100%;height:240px;}
+.adsbygoogle.dad2 {display:inline-block;min-width:240px;max-width:240px;width:100%;height:240px;}
+}
+@media (min-width: 1024px) {
+.adsbygoogle.dad1 {display:inline-block;min-width:340px;max-width:340px;width:100%;height:340px;}
+.adsbygoogle.dad2 {display:inline-block;;min-width:340px;max-width:340px;width:100%;height:340px;}
+}
+
+.popup-container {
+display: block;
+position: fixed;
+bottom: 20px;
+right: 20px;
+width: 150px;
+height: 200px;
+background-color: #ffffff;
+border: 1px solid #ccc;
+z-index: 9999;
+padding: 20px;
+}
+.popup-close {
+float: right;
+cursor: pointer;
+background: none;
+border: none;
+outline: none;
+}
+.popup-close img {
+width: 20px; /* 이미지 크기 조정 */
+height: 20px;
+}
