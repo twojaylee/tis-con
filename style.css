@@ -3,6 +3,7 @@
 @import url('//fonts.googleapis.com/earlyaccess/notosanskr.css');
 
 
+
 .adsbygoogle.dad1 {display:block;}
 .adsbygoogle.dad2 {display:none}
 	
@@ -28,17 +29,19 @@
 	font-size: 22px;
 }
 
+.allpoimg, .popup-container{
+    height: 120px;
+}
+
 .popup-container {
 				display: block;
 				position: fixed;
 				bottom: 20px;
 				right: 20px;
-				width: 150px;
-				height: 90px;
+				width: 300px;
 				background-color: #ffffff;
 				border: 1px solid #ccc;
 				z-index: 9999;
-                padding-left: 15px;
 		}
 .popup-close {
 		float: right;

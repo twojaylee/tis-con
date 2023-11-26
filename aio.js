@@ -3,15 +3,20 @@ var 내용
 
 지정한태그 = document.body;
 내용 = `
-<div id="allpo">
-    <!-- 레이어 팝업 -->
-    <div class="popup-container" id="popup">
-        <button class="popup-close" id="popup-close-btn">
-            <img src="https://w7.pngwing.com/pngs/564/374/png-transparent-computer-icons-desktop-others-logo-button-icon-desktop-wallpaper-thumbnail.png" alt="닫기" /> 
-        </button>
-        <p></p>
-        <a class="popup-font" href="https://tips.boodream.com/어차피-쓰는-돈-새카드로-결제하고-캐시백-현금-지원/"><br>카드발급 하고 12만원 받기</a>
-    </div>
+<!-- 팝업광고 -->
+<div class="popup-container" id="popup">
+
+    <button class="popup-close" id="popup-close-btn">
+        <img src="
+        https://w7.pngwing.com/pngs/564/374/png-transparent-computer-icons-desktop-others-logo-button-icon-desktop-wallpaper-thumbnail.png
+        " alt="닫기" /> 
+    </button>
+
+    <a href="http://iryan.kr/t7ex8yxacj">
+        <img class="allpoimg" src="
+        https://raw.githubusercontent.com/twojaylee/tis-con/main/images/allpo.webp        
+        ">
+    </a>
 </div>
 `;
 지정한태그.insertAdjacentHTML('afterbegin', 내용);
