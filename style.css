@@ -119,16 +119,7 @@ h1{
 	font-size: 29px ;
 	margin: 10px 0 10px !important
 }
-p{
-    padding-top: 0 !important;
-    padding-bottom: 0 !important;
-    margin-top: 0 !important;
-    margin-bottom: 0 !important;
-    display: block !important;
-    margin-block-start: 0 !important;
-    margin-block-end: 0 !important;
-    font-size: 21px !important;
-}
+
 u{
     text-decoration: none;
     display: inline;
@@ -1600,9 +1591,19 @@ a:active {text-decoration:none;}
 .entry-content p {
 	margin-bottom: 32px;
 	word-break: break-word;
-	font-size: 18px;
 	line-height: 2;
-	color: #000;
+	color: #rgb(98, 101, 106)
+    ;
+    margin-bottom: 21px;
+    line-height: 1.625rem;
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+    display: block !important;
+    margin-block-start: 0 !important;
+    margin-block-end: 0 !important;
+    font-size: 20px !important;
 }
 .entry-content p img {
 	max-width: 100%;
@@ -3096,10 +3097,7 @@ a:active {text-decoration:none;}
 	.entry-content {
 		padding: 0 24px;
 	}
-	.entry-content p {
-		margin-bottom: 21px;
-		line-height: 1.625rem;
-	}
+
 	.entry-content figure {
 		margin-top: 6px !important;
 	}
