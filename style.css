@@ -2,6 +2,10 @@
 @import url('https://fonts.googleapis.com/css?family=Nanum+Myeongjo:800&subset=korean');
 @import url('//fonts.googleapis.com/earlyaccess/notosanskr.css');
 
+.contents_style{
+    word-break: keep-all !important;
+}
+
 #container .content-wrap:before {
 	width: 0px;
     content: "";
