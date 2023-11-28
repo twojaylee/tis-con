@@ -55,10 +55,6 @@ word-break: keep-all;
 line-height: 1.7;
 }
 
-.container_postbtn{
-    display: none;
-}
-
 #footer {
     padding: 38px 0 28px;
     border-top: 0px solid #eee;
@@ -79,10 +75,6 @@ line-height: 1.7;
 .adsbygoogle.dad1 {display:inline-block;min-width:336px;max-width:336px;width:100%;height:280px;}
 .adsbygoogle.dad2 {display:inline-block;min-width:336px;max-width:336px;width:100%;height:280px;}
 }
-
-.container_postbtn {
-	display:none;
-	}
 	
 .cm_ad rendered viewable
 .popup-font{
@@ -2339,6 +2331,7 @@ a:active {text-decoration:none;}
 .container_postbtn {
 	margin: 53px 0 55px;
 	padding: 0 !important;
+    display: none !important;
 }
 
 .absent_post:before {
