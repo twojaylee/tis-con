@@ -35,6 +35,11 @@
     margin-top: 70px;
     white-space: pre-wrap;
     line-height: normal;
+	margin-bottom: 20px;
+	margin-block-start: 0.83em;
+	margin-block-end: 0.83em;
+	margin-inline-start: 0px;
+	margin-inline-end: 0px;
 }
 
 .entry-content h3 {
@@ -112,9 +117,11 @@ line-height: 1.7;
 }
 
 h1{
-	font-size: 29px ;
-	margin: 10px 0 10px !important
-}
+	color: rgb(0, 0, 0);
+	font-size: 48px;
+	font-weight: 700;
+	margin: 20px 0px 30px;
+}	
 
 u{
     text-decoration: none;
@@ -1588,8 +1595,7 @@ a:active {text-decoration:none;}
 	margin-bottom: 32px;
 	word-break: break-word;
 	line-height: 2;
-	color: #rgb(98, 101, 106)
-    ;
+	color: rgb(98, 101, 106);
     margin-bottom: 21px;
     line-height: 1.625rem;
     padding-top: 0 !important;
