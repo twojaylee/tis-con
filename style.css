@@ -1596,20 +1596,19 @@ a:active {text-decoration:none;}
 	
 }
 .entry-content p {
-	margin-bottom: 32px;
+	margin-top: 30px;
+	margin-bottom: 30px;
 	word-break: break-word;
-	line-height: 2;
 	color: rgb(98, 101, 106);
-    margin-bottom: 21px;
-    line-height: 1.625rem;
+    line-height: 1.7rem;
     padding-top: 0 !important;
     padding-bottom: 0 !important;
-    margin-top: 0 !important;
-    margin-bottom: 0 !important;
     display: block !important;
-    margin-block-start: 0 !important;
-    margin-block-end: 0 !important;
     font-size: 20px !important;
+	margin-block-start: 1em !important;
+	margin-block-end: 1em !important;
+	margin-inline-start: 0px;
+	margin-inline-end: 0px;
 }
 .entry-content p img {
 	max-width: 100%;
