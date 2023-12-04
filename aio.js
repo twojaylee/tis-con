@@ -5,14 +5,13 @@ var 내용
 내용 = `
 <!-- 팝업광고 -->
 <div class="popup-container" id="popup">
-
     <button class="popup-close" id="popup-close-btn">
         <img src="
         https://w7.pngwing.com/pngs/564/374/png-transparent-computer-icons-desktop-others-logo-button-icon-desktop-wallpaper-thumbnail.png
         " alt="닫기" /> 
     </button>
 
-    <a href="http://iryan.kr/t7ex8yxacj">
+    <a href="http://iryan.kr/t7e3hatpv4">
         <img class="popup-img" src="
         https://raw.githubusercontent.com/twojaylee/tis-con/main/images/allpo.webp        
         ">
