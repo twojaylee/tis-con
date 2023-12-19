@@ -4,6 +4,35 @@
 /*폰트가 마음에 들어, 목차에 쓰인 폰트, 고딕에 레디우스 굵음
 font-family: 'AppleSDGothicNeo', 'Noto Sans KR', sans-serif;
 */
+.popup-container2 {
+	width: 282px;
+    height: 122px;
+    display: block;
+    position: fixed;
+    background-color: #ffffff;
+    border: 1px solid #ccc;
+	bottom: 0px;
+    left: 0px;
+	z-index: 1;
+}   
+
+.popup-img2 {
+	position: absolute;
+	width: 100%;
+	height: 100%; 
+	z-index: 1; 
+}
+.popup-close2 img {
+	position: absolute;
+    width: 20px; /* 이미지 크기 조정 */
+	z-index: 2;
+	right: 75px;
+	top: 5px;
+}
+.popup-close2 {
+    cursor: pointer;
+}
+
 
 .popup-container {
 	width: 282px;
