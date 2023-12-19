@@ -32,7 +32,7 @@ window.onload = function() {
         parentElement.removeChild(targetElement);
     });
     // 팝업 닫기 버튼 클릭 시 이벤트 처리
-    document.getElementById("popup-close-btn2").addEventListener("click", function() {
-        document.getElementById("popup2").style.display = "none";
+    document.getElementById("popup-close-btn").addEventListener("click", function() {
+        document.getElementById("popup").style.display = "none";
     });
 };
