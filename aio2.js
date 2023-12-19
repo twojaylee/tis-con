@@ -11,7 +11,7 @@ var 내용
         " alt="닫기" /> 
     </button>
 
-    <a href="http://iryan.kr/t7e3hatpv4">
+    <a href="http://iryan.kr/t7e6yvne27">
         <img class="popup-img2" src="
         https://raw.githubusercontent.com/twojaylee/tis-con/main/images/allpo2.webp        
         ">
