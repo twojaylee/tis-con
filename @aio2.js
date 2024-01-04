@@ -1,8 +1,8 @@
-var 지정한태그
-var 내용
+var 지정한태그2
+var 내용2
 
-지정한태그 = document.body;
-내용 = `
+지정한태그2 = document.body;
+내용2 = `
 <!-- 팝업광고 -->
 <div class="popup-container2" id="popup2">
     <button class="popup-close2" id="popup-close-btn2">
@@ -18,7 +18,7 @@ var 내용
     </a>
 </div>
 `;
-지정한태그.insertAdjacentHTML('afterbegin', 내용);
+지정한태그2.insertAdjacentHTML('afterbegin', 내용2);
 
 // 페이지 로딩 후 실행될 함수를 등록합니다.
 window.onload = function() {
