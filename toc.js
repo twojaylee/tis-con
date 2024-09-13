@@ -1,1 +1,127 @@
-const _0x5eef=['classList','92935nhtnYq','setAttribute','push','innerHTML','getElementById','toLowerCase','tt_adsense_top','another_category','style','//p[contains(text(),\x27[목차여기]\x27)]','1954669aacfHB','div','appendChild','toc-ym','title','forEach','DOMContentLoaded','call','addEventListener','length','insertBefore','firstElementChild','log','27309qNoTHN','62SuwPRc','parentNode','querySelector','revenue_unit_wrap','tagName','23736mMyuUa','singleNodeValue','trim','17723tUfPMr','textContent','1STKGDu','getAttribute','contains','nextSibling','791846eKKEom','createElement','outerText','FIRST_ORDERED_NODE_TYPE','querySelectorAll','72wJWnLP','hasAttribute','669103LLOFBD','toc'];function _0x330c(_0x5d40d0,_0x4afdad){_0x5d40d0=_0x5d40d0-0xec;let _0x5eef71=_0x5eef[_0x5d40d0];return _0x5eef71;}const _0x2078d2=_0x330c;(function(_0xbea334,_0x392453){const _0x2c3076=_0x330c;while(!![]){try{const _0x5a087d=-parseInt(_0x2c3076(0x117))+parseInt(_0x2c3076(0xf7))+parseInt(_0x2c3076(0xfa))+-parseInt(_0x2c3076(0x11a))*-parseInt(_0x2c3076(0xf5))+parseInt(_0x2c3076(0x112))*parseInt(_0x2c3076(0x111))+parseInt(_0x2c3076(0xec))*-parseInt(_0x2c3076(0xf0))+-parseInt(_0x2c3076(0x104));if(_0x5a087d===_0x392453)break;else _0xbea334['push'](_0xbea334['shift']());}catch(_0x47ff63){_0xbea334['push'](_0xbea334['shift']());}}}(_0x5eef,0xea9e9),document[_0x2078d2(0x10c)](_0x2078d2(0x10a),function(){const _0x7eb51e=_0x2078d2;try{const _0x591681=document[_0x7eb51e(0x114)]('.contents_style'),_0x1762f9=document[_0x7eb51e(0xfe)](_0x7eb51e(0x107));if(_0x591681&&!_0x1762f9)htmlTableOfContents();else return![];}catch(_0x250abc){console[_0x7eb51e(0x110)]('');}}));function htmlTableOfContents(_0x4f1c99){const _0x388803=_0x2078d2;var _0x4f1c99=_0x4f1c99||document;const _0x44fb35=document[_0x388803(0xf1)]('div');_0x44fb35[_0x388803(0xfb)]('id',_0x388803(0x107));const _0x2117e2=document['querySelector']('.contents_style');var _0x35e549=_0x388803(0x103),_0x552a33=document['evaluate'](_0x35e549,document,null,XPathResult[_0x388803(0xf3)],null)[_0x388803(0x118)];let _0x407aa0;_0x552a33?(_0x407aa0=_0x552a33,_0x407aa0[_0x388803(0x11b)]='',_0x407aa0[_0x388803(0x106)](_0x44fb35)):(_0x407aa0=_0x2117e2[_0x388803(0x10f)],_0x407aa0['classList'][_0x388803(0xee)](_0x388803(0x100))||_0x407aa0[_0x388803(0xf9)]['contains'](_0x388803(0x115))?_0x2117e2['insertBefore'](_0x44fb35,_0x407aa0[_0x388803(0xef)]):_0x407aa0[_0x388803(0x113)][_0x388803(0x10e)](_0x44fb35,_0x407aa0));const _0x3e06b5=document['getElementById'](_0x388803(0x107)),_0x5ee2f2=[]['slice'][_0x388803(0x10b)](_0x2117e2[_0x388803(0xf4)]('h1,\x20h2,\x20h3,\x20h4,\x20h5,\x20h6')),_0x454032=[];for(i=0x0;i<_0x5ee2f2[_0x388803(0x10d)];i++){if(_0x5ee2f2[i][_0x388803(0xf2)][_0x388803(0x119)]()==='')continue;else{if(_0x5ee2f2[i][_0x388803(0xf9)][_0x388803(0xee)](_0x388803(0x108)))continue;else{if(_0x5ee2f2[i][_0x388803(0x113)]['classList'][_0x388803(0xee)](_0x388803(0x101)))continue;else _0x454032[_0x388803(0xfc)](_0x5ee2f2[i]);}}}_0x454032[_0x388803(0x109)](function(_0x5d97e0,_0x2112a5){const _0x4b3465=_0x388803;var _0x94aa2e=_0x4b3465(0xf8)+_0x2112a5;if(_0x5d97e0[_0x4b3465(0xf6)]('id'))_0x94aa2e=_0x5d97e0[_0x4b3465(0xed)]('id');else _0x5d97e0[_0x4b3465(0xfb)]('id',_0x94aa2e);var _0x34278b=_0x4f1c99[_0x4b3465(0xf1)]('a');_0x34278b[_0x4b3465(0xfb)]('href','#'+_0x94aa2e),_0x34278b['textContent']='•\x20'+_0x5d97e0[_0x4b3465(0x11b)];var _0x118edf=_0x4f1c99[_0x4b3465(0xf1)](_0x4b3465(0x105));_0x118edf[_0x4b3465(0xfb)]('class',_0x5d97e0[_0x4b3465(0x116)][_0x4b3465(0xff)]()),_0x118edf[_0x4b3465(0x106)](_0x34278b),_0x3e06b5[_0x4b3465(0x106)](_0x118edf);});const _0xd72dc='\x0a\x20\x20\x20\x20#toc-ym\x20div.h1\x20{\x20margin-left:\x200em\x20}\x0a\x20\x20\x20\x20#toc-ym\x20div.h2\x20{\x20margin-left:\x200.5em\x20}\x0a\x20\x20\x20\x20#toc-ym\x20div.h3\x20{\x20margin-left:\x201em\x20}\x0a\x20\x20\x20\x20#toc-ym\x20div.h4\x20{\x20margin-left:\x201.5em\x20}\x0a\x20\x20\x20\x20#toc-ym\x20div.h5\x20{\x20margin-left:\x202em\x20}\x0a\x20\x20\x20\x20#toc-ym\x20div.h6\x20{\x20margin-left:\x202.5em\x20}\x0a\x20\x20\x20\x20\x0a\x20\x20\x20\x20#toc-ym\x20{\x0a\x20\x20\x20\x20\x20\x20margin:\x2030px\x200px\x2030px\x200px;\x0a\x20\x20\x20\x20\x20\x20padding:\x2020px\x2020px\x2010px\x2015px;\x0a\x20\x20\x20\x20\x20\x20border:\x201px\x20solid\x20#dadada;\x0a\x20\x20\x20\x20\x20\x20background-color:\x20#ffffff;\x0a\x20\x20\x20\x20}\x0a\x20\x20\x20\x20#toc-ym::before\x20{\x0a\x20\x20\x20\x20\x20\x20content:\x20\x22목\x20\x20차\x22;\x0a\x20\x20\x20\x20\x20\x20display:\x20block;\x0a\x20\x20\x20\x20\x20\x20width:\x20120px;\x0a\x20\x20\x20\x20\x20\x20background-color:\x20rgb(255,\x20255,\x20255);\x0a\x20\x20\x20\x20\x20\x20text-align:\x20center;\x0a\x20\x20\x20\x20\x20\x20font-size:\x2018px;\x0a\x20\x20\x20\x20\x20\x20font-weight:\x20bold;\x0a\x20\x20\x20\x20\x20\x20margin:\x20-40px\x20auto\x200px;\x0a\x20\x20\x20\x20\x20\x20padding:\x205px\x200px;\x0a\x20\x20\x20\x20\x20\x20border-width:\x201px;\x0a\x20\x20\x20\x20\x20\x20border-style:\x20solid;\x0a\x20\x20\x20\x20\x20\x20border-color:\x20rgb(218,\x20218,\x20218);\x0a\x20\x20\x20\x20\x20\x20border-image:\x20initial;\x0a\x20\x20\x20\x20}\x0a\x20\x20\x20\x20#toc-ym\x20div{\x0a\x20\x20\x20\x20\x20\x20margin:\x205px\x200px;\x0a\x20\x20\x20\x20}\x0a\x20\x20\x20\x20#toc-ym\x20div:first-child{\x0a\x20\x20\x20\x20\x20\x20margin-top:\x2015px;\x0a\x20\x20\x20\x20}\x0a\x20\x20\x20\x20#toc-ym\x20div:last-child{\x0a\x20\x20\x20\x20\x20\x20margin-bottom:\x2015px;\x0a\x20\x20\x20\x20}\x0a\x20\x20\x20\x20#toc-ym\x20div\x20a\x20{\x0a\x20\x20\x20\x20\x20\x20text-decoration:\x20none;\x0a\x20\x20\x20\x20\x20\x20color:\x20#337ab7;\x0a\x20\x20\x20\x20\x20\x20transition:\x20all\x20ease\x200.2s;\x0a\x20\x20\x20\x20}\x0a\x20\x20\x20\x20#toc-ym\x20div\x20a:hover\x20{\x0a\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20color:\x20#333333;\x0a\x20\x20\x20\x20\x20\x20background-color:\x20#ecc7ff;\x0a\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20}\x0a\x20\x20\x20\x20/*\x0a\x20\x20\x20\x20.contents_style\x20h3{\x0a\x20\x20\x20\x20\x20\x20margin-bottom:7px;\x0a\x20\x20\x20\x20\x20\x20padding:\x2010px\x2015px;\x0a\x20\x20\x20\x20\x20\x20border-left:\x205px\x20solid\x20#757575;\x0a\x20\x20\x20\x20\x20\x20background-color:\x20#e5e5e5;\x0a\x20\x20\x20\x20\x20\x20font-weight:\x20500;\x0a\x20\x20\x20\x20\x20\x20color:\x20#000000\x20!important;\x0a\x20\x20\x20\x20}\x0a\x20\x20\x20\x20*/\x0a\x20\x20\x20\x20',_0x3ed036=document[_0x388803(0xf1)](_0x388803(0x102));_0x3ed036[_0x388803(0xfd)]=_0xd72dc,_0x2117e2[_0x388803(0x10e)](_0x3ed036,_0x407aa0);}
+document.addEventListener('DOMContentLoaded', function() {
+    try {
+        const contentsStyle = document.querySelector('.contents_style');
+        const existingToc = document.getElementById('toc-ym');
+        if (contentsStyle && !existingToc) {
+            htmlTableOfContents();
+        } else {
+            return false;
+        }
+    } catch (error) {
+        console.log('Error creating table of contents:', error);
+    }
+});
+
+function htmlTableOfContents(doc) {
+    var doc = doc || document;
+    const tocDiv = document.createElement('div');
+    tocDiv.setAttribute('id', 'toc-ym');
+    const contentsStyle = document.querySelector('.contents_style');
+    
+    var xpathResult = "//p[contains(text(),'[목차여기]')]";
+    var tocPlaceholder = document.evaluate(xpathResult, document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue;
+
+    let insertionPoint;
+    if (tocPlaceholder) {
+        insertionPoint = tocPlaceholder;
+        insertionPoint.innerHTML = '';
+        insertionPoint.appendChild(tocDiv);
+    } else {
+        insertionPoint = contentsStyle.firstElementChild;
+        if (insertionPoint.classList.contains('revenue_unit_wrap') || insertionPoint.classList.contains('tt_adsense_top')) {
+            contentsStyle.insertBefore(tocDiv, insertionPoint.nextSibling);
+        } else {
+            insertionPoint.parentNode.insertBefore(tocDiv, insertionPoint);
+        }
+    }
+
+    const toc = document.getElementById('toc-ym');
+    const headings = [].slice.call(contentsStyle.querySelectorAll('h1, h2, h3, h4, h5, h6'));
+    const tocItems = [];
+
+    for (i = 0; i < headings.length; i++) {
+        if (headings[i].textContent.trim() === '') continue;
+        if (headings[i].classList.contains('another_category')) continue;
+        if (headings[i].parentNode.classList.contains('another_category')) continue;
+        tocItems.push(headings[i]);
+    }
+
+    if (tocItems.length === 0) {
+        // 목차 항목이 없으면 목차를 생성하지 않음
+        if (toc) {
+            toc.parentNode.removeChild(toc);
+        }
+        return;
+    }
+
+    tocItems.forEach(function(el, i) {
+        var link = 'link' + i;
+        if (el.hasAttribute('id')) {
+            link = el.getAttribute('id');
+        } else {
+            el.setAttribute('id', link);
+        }
+
+        var div = doc.createElement('div');
+        div.setAttribute('class', el.tagName.toLowerCase());
+
+        var a = doc.createElement('a');
+        a.setAttribute('href', '#' + link);
+        a.textContent = '• ' + el.textContent;
+
+        div.appendChild(a);
+        toc.appendChild(div);
+    });
+//twojaylee
+    const tocStyles = `
+    #toc-ym div.h1 { margin-left: 0em }
+    #toc-ym div.h2 { margin-left: 0.5em }
+    #toc-ym div.h3 { margin-left: 1em }
+    #toc-ym div.h4 { margin-left: 1.5em }
+    #toc-ym div.h5 { margin-left: 2em }
+    #toc-ym div.h6 { margin-left: 2.5em }
+    
+    #toc-ym {
+      margin: 30px 0px 30px 0px;
+      padding: 20px 20px 10px 15px;
+      border: 1px solid #dadada;
+      background-color: #ffffff;
+    }
+    #toc-ym::before {
+      content: "목  차";
+      display: block;
+      width: 120px;
+      background-color: rgb(255, 255, 255);
+      text-align: center;
+      font-size: 18px;
+      font-weight: bold;
+      margin: -40px auto 0px;
+      padding: 5px 0px;
+      border-width: 1px;
+      border-style: solid;
+      border-color: rgb(218, 218, 218);
+      border-image: initial;
+    }
+    #toc-ym div{
+      margin: 5px 0px;
+    }
+    #toc-ym div:first-child{
+      margin-top: 15px;
+    }
+    #toc-ym div:last-child{
+      margin-bottom: 15px;
+    }
+    #toc-ym div a {
+      text-decoration: none;
+      color: #337ab7;
+      transition: all ease 0.2s;
+    }
+    #toc-ym div a:hover {
+      color: #333333;
+      background-color: #ecc7ff;
+    }`;
+
+    const styleElement = document.createElement('style');
+    styleElement.innerHTML = tocStyles;
+    contentsStyle.insertBefore(styleElement, insertionPoint);
+}
